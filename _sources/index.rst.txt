@@ -1,0 +1,23 @@
+.. Dossier Professionnel Zoltan SRAM documentation master file, created by
+   sphinx-quickstart on Tue Oct 18 16:36:54 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to Dossier Professionnel Zoltan SRAM's documentation!
+=============================================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Sommaire:
+
+
+   test
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
